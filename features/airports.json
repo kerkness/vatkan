@@ -1,0 +1,59 @@
+[
+    { "icao": "CYYC", "name": "Calgary" },
+    { "icao": "CYEG", "name": "Edmonton" },
+    { "icao": "CYLW", "name": "Kelowna" },
+    { "icao": "CYFC", "name": "Fredericton" }
+    { "icao": "CYQX", "name": "Gander" },
+    { "icao": "CYHZ", "name": "Halifax" },
+    { "icao": "CYQM", "name": "Moncton" },
+    { "icao": "CYUL", "name": "Montreal" },
+    { "icao": "CYOW", "name": "Ottawa" },
+    { "icao": "CYQB", "name": "Quebec" },
+    { "icao": "CYYT", "name": "St John's NFL" },
+    { "icao": "CYYZ", "name": "Toronto" },
+    { "icao": "CYVR", "name": "Vancouver" },
+    { "icao": "CYWG", "name": "Winnipeg" },
+    { "icao": "CYXS", "name": "Prince George" },
+    
+
+    { "icao": "CYSJ", "name": "St John NB" },
+    { "icao": "CYZF", "name": "Yellowknife" },
+    { "icao": "CYFB", "name": "Iqaluit" },
+    { "icao": "CYXU", "name": "London" },
+    { "icao": "CYQT", "name": "Thunderbay" },
+
+    { "icao": "CYYG", "name": "Charlottetown" },
+    { "icao": "CYMX", "name": "Mirabel - Montreal" },
+
+    { "icao": "CYQR", "name": "Regina" },
+    { "icao": "CYXE", "name": "Saskatoon" },
+    { "icao": "CYXY", "name": "Whitehorse" },
+
+    { "icao": "CYYJ", "name": "Victoria" },
+
+    { "icao": "CYZF", "name": "Yellowknife" },
+    { "icao": "CYRT", "name": "Rankin Inlet" },
+    { "icao": "CYRL", "name": "Red Lake" },
+    { "icao": "CYQD", "name": "The Pas" },
+    { "icao": "CYTH", "name": "Thompson" },
+
+
+    { "icao": "CYXX", "name": "Abbotsford" },
+    { "icao": "CYFO", "name": "Flin Flon" },
+    { "icao": "CYGX", "name": "Gillam" },
+    { "icao": "CYKF", "name": "Kitchener" },
+    { "icao": "KLAS", "name": "Las Vegas" },
+    { "icao": "KMLB", "name": "Melbourne Orlando" },
+    { "icao": "KMCO", "name": "Orlando" },
+    { "icao": "KPSP", "name": "Palm Springs" },
+    { "icao": "KPHX", "name": "Phoenix" },
+
+    { "icao": "KMSP", "name": "Minneapolis" },
+
+
+    { "icao": "KBOS", "name": "Boston" }
+
+
+]
+
+

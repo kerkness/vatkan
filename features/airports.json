@@ -2,7 +2,7 @@
     { "icao": "CYYC", "name": "Calgary" },
     { "icao": "CYEG", "name": "Edmonton" },
     { "icao": "CYLW", "name": "Kelowna" },
-    { "icao": "CYFC", "name": "Fredericton" }
+    { "icao": "CYFC", "name": "Fredericton" },
     { "icao": "CYQX", "name": "Gander" },
     { "icao": "CYHZ", "name": "Halifax" },
     { "icao": "CYQM", "name": "Moncton" },

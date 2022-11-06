@@ -4,14 +4,21 @@ import AirportCodes from "../features/AirportCodes";
 import styles from '../styles/Home.module.css'
 
 
-export default function Codes()
-{
+export default function Codes() {
     return <Template>
-    <main>
-    <AirportCodes />
+        <main>
+            <h1 className={styles.title}>
+                Aviation Codes
+            </h1>
 
-    </main>
+            <p className={styles.description}>
+                Find airport ICAO and Airline Callsigns
+            </p>
+
+            <AirportCodes />
+
+        </main>
 
     </Template>
-    
+
 }

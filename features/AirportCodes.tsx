@@ -1,11 +1,19 @@
 import { FormControl, InputLabel, Select, MenuItem, SelectChangeEvent, TextField } from '@mui/material';
 import { Box } from '@mui/system';
 import React from 'react';
-import codesJson from './airports.json';
+import codesJson from '../data/Airports/airports.json';
 
 export interface AirportCodesInterface {
     icao: string;
     name: string;
+    iata: string;
+    city: string;
+    state: string;
+    country: string;
+    elevation: number;
+    lat: number;
+    lon: number;
+    tz: string;
 }
 
 const AirportCodes = () => {
